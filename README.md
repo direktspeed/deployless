@@ -1,5 +1,5 @@
 # deployless
-Automated AI Bayesian optimization driven Deployments.
+Automated AI Bayesian optimization driven Deployments. To any Infrastructure Internal and in the Cloud,
 
 
 ## Internals
